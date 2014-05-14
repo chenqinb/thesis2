@@ -1,0 +1,6 @@
+#!/bin/bash
+exec 1> result10M2
+for((i= 1;i< 65536;i++))
+do
+./client 192.168.1.125 file10M
+done

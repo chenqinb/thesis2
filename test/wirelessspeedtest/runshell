@@ -1,0 +1,6 @@
+#!/bin/bash
+exec 1> result1000M2
+for((i= 1;i< 65536;i++))
+do
+sudo ./speedtest wlan0 file1000M
+done
