@@ -1,0 +1,63 @@
+.TabbedPanels {
+	MARGIN: 0px; WIDTH: 100%
+}
+#TabGroup {
+	TEXT-ALIGN: left; PADDING-BOTTOM: 0px; BORDER-RIGHT-WIDTH: 0px; MARGIN: 0px; PADDING-LEFT: 0px; WIDTH: 360px; PADDING-RIGHT: 0px; BACKGROUND: #fff; FLOAT: left; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; PADDING-TOP: 0px
+}
+.TabbedPanelsTabGroup {
+	BACKGROUND-IMAGE: url(../../images/pmlc12_w_bj.gif); TEXT-ALIGN: left; PADDING-BOTTOM: 0px; BORDER-RIGHT-WIDTH: 0px; MARGIN: 0px; PADDING-LEFT: 0px; WIDTH: 100%; PADDING-RIGHT: 0px; BACKGROUND-REPEAT: repeat-x; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; HEIGHT: 36px; BORDER-LEFT-WIDTH: 0px; PADDING-TOP: 0px
+}
+.TabbedPanelsGR {
+	MARGIN: 0px; WIDTH: 100%; PADDING-TOP: 5px
+}
+.TabbedPanelsTabGroupGR {
+	BACKGROUND-IMAGE: url(../../images/pmlc12_w_bj.gif); TEXT-ALIGN: left; PADDING-BOTTOM: 0px; BORDER-RIGHT-WIDTH: 0px; MARGIN: 0px; PADDING-LEFT: 0px; WIDTH: 100%; PADDING-RIGHT: 0px; BACKGROUND-REPEAT: repeat-x; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; HEIGHT: 36px; BORDER-LEFT-WIDTH: 0px; PADDING-TOP: 0px
+}
+.TabbedPanelsTab {
+	BACKGROUND-IMAGE: url(../../images/pmlc12_w_bja.gif); POSITION: relative; TEXT-ALIGN: center; LINE-HEIGHT: 36px; WIDTH: 128px; BACKGROUND-REPEAT: no-repeat; FONT-FAMILY: Arial, Helvetica, sans-serif; FLOAT: left; HEIGHT: 36px; COLOR: #005d00; FONT-SIZE: 14px; CURSOR: pointer; FONT-WEIGHT: bold; -moz-user-select: none; -khtml-user-select: none
+}
+.TabbedPanelsTab1 {
+	BACKGROUND-IMAGE: url(../../images/pmlc12_w_bjb.gif); POSITION: relative; TEXT-ALIGN: center; LINE-HEIGHT: 36px; WIDTH: 128px; BACKGROUND-REPEAT: no-repeat; FONT-FAMILY: Arial, Helvetica, sans-serif; FLOAT: left; HEIGHT: 36px; COLOR: #eee; FONT-SIZE: 14px; CURSOR: pointer; FONT-WEIGHT: bold; -moz-user-select: none; -khtml-user-select: none
+}
+.TabbedPanelsTabHover {
+	BACKGROUND-COLOR: #f0f8eb
+}
+.TabbedPanelsTabSelected {
+	BACKGROUND-IMAGE: url(../../images/pmlc12_w_bjb.gif); BACKGROUND-REPEAT: no-repeat; COLOR: #fff
+}
+.TabbedPanelsContentGroup {
+	WIDTH: 100%; PADDING-TOP: 10px
+}
+.TabbedPanelsContentGroupGR {
+	TEXT-ALIGN: left; WIDTH: 100%; PADDING-TOP: 10px
+}
+.Content {
+	TEXT-ALIGN: left; PADDING-BOTTOM: 10px; PADDING-LEFT: 20px; PADDING-RIGHT: 10px; COLOR: #555; PADDING-TOP: 10px
+}
+.ContentVisible {
+	
+}
+.VTabbedPanels .TabGroup {
+	POSITION: relative; BACKGROUND-COLOR: #eee; FLOAT: left
+}
+.TabbedPanelsContent {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+.VTabbedPanels .PanelsTab {
+	MARGIN: 0px; BORDER-LEFT-STYLE: none; BORDER-TOP-STYLE: none; FLOAT: none; BORDER-RIGHT-STYLE: none
+}
+.VTabbedPanels .TabSelected {
+	BACKGROUND-COLOR: #fff
+}
+.VTabbedPanels .ContentGroup {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; WIDTH: 500px; PADDING-RIGHT: 0px; FLOAT: left; HEIGHT: 300px; CLEAR: none; PADDING-TOP: 0px
+}
+.PMLC12_text_kuang {
+	BORDER-BOTTOM: #7ab06c 1px solid; BORDER-LEFT: #7ab06c 1px solid; HEIGHT: 18px; COLOR: #333; BORDER-TOP: #7ab06c 1px solid; BORDER-RIGHT: #7ab06c 1px solid
+}
+.PMLC12_w_table {
+	WIDTH: 320px; FLOAT: right; HEIGHT: 36px
+}
+.PMLC12_w_table1 {
+	WIDTH: 700px; FLOAT: left; HEIGHT: 36px
+}
