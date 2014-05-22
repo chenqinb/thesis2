@@ -1,52 +1,9 @@
-[100]唐波. WAVE架构及相关协议设计与实现[D]. 华东理工大学,2009			(原19）
-[200]谢鹏.基于WAVE协议栈的车联网通信终端研究及定位系统实现[D].华南理工大学.2013
-[300]邱团准. 基于SOA的车联网应用系统设计与实现[D]. 华南理工大学, 2013
-[400]基于802.11p协议的平台实现    马芸芸-《北京邮电大学硕士论文》
-原30改为：基于嵌入式系统工业串口集线器的设计与测试    王力轩-《北京邮电大学硕士论文》-2008-01-01
-原33改为：基于Linux的网络测量技术研究与实现    易小林-《河北工业大学硕士论文》-2010-11-01
-[500]智能化网络安全监控系统技术研究    张旭-《北京工业大学》-2012-12-13
-[600]基于IRC协议的僵尸网络检测系统的实现    戴维-《电子科技大学硕士论文》-2010-10-01
-原37 38 基于遗传算法的模糊推理控制系统的参数优化研究    高建兵-《辽宁工程技术大学硕士论文》-2010-11-20
-多品种混合装配车间关键资源建模与优化    张远春-《上海交通大学硕士论文》-2011-02-01
-[700] 基于Linux的嵌入式网络视频监控系统设计与实现    冀谦祥-《电子科技大学硕士论文》-2010-11-04
-[800] 基于Linux的嵌入式系统软件平台设计    余沛-《华中科技大学硕士论文》-2004-04-01
-[900]	TCP三次握手
-[1]	百度百科.物联网. [EB/OL]. http://baike.baidu.com/view/1136308.htm
-[2]	宋俊德.  浅谈物联网的现状和未来[J]. 移动通信. 2010,15
-[3]	孙其博,刘杰,黎羴,范春晓,孙娟娟. 物联网:概念、架构与关键技术研究综述[J].北京邮电大学学报.2010,03
-[4]	百度百科.智能交通系统[EB/OL]. http://baike.baidu.com/view/1488750.htm
-[5]	王笑京,沈鸿飞,汪林.  中国智能交通系统发展战略研究[J]. 交通运输系统工程与信息. 2006,04
-[6]	王建强, 吴辰文,李晓军. 车联网架构与关键技术研究[J].微计算机信息.2011,04
-[7]	Grafling, Sebastian, Petri Mahonen, Janne Riihijarvi. Performance evaluation of IEEE 1609 WAVE and IEEE 802.11 p for vehicular communications. Ubiquitous and Future Networks (ICUFN), 2010 Second International Conference on. IEEE, 2010.
-[8]	常促宇,向勇,史美林.车载自组网的现状与发展[J]. 通信学报.2007,11
-[9]	刘富强,项雪琴,邱冬.车载通信DSRC技术和通信机制研究.上海汽车.2007,08
-[10]	迟铁军,高鹏.国外智能交通系统发展状况分析及对我国的启示.黑龙江交通科技.2009,02
-[11]	美国ITS的发展历程与现状[EB/OL]. http://www.itschina.org/article.asp?articleid=2143.
-[12]	Tsugawa S. The Current Trends and Issues on ITS in Japan: Safety, Energy and Environment. 2011 IMWS-IRFPT[C]. 2011
-[13]	谢鹏.基于WAVE协议栈的车联网通信终端研究及定位系统实现[D].华南理工大学.2013
-[14]	曹颖荣,林小玲. IEEE 802.11p无线车载自组网络协议的性能分析与模拟[J]. 仪表技术, 2011,02
-[15]	杜英田. 基于IEEE802.11p/1609协议的智能交通无线车载通信协议优化研究[D].北京邮电大学, 2011
-[16]	百度百科.OSI模型[EB/OL]. http://baike.baidu.com/view/571842.htm
-[17]	加斯特. 802.11无线网络权威指南(译) [M]. 东南大学出版社,2006
-[18]	百度百科.IEEE802[EB/OL].http://baike.baidu.com/view/126269.htm
-[19]	唐波. WAVE架构及相关协议设计与实现[D]. 华东理工大学,2009
-[20]	东南大学.802.11无线网络[M]. 东南大学出版社,2006
-[21]	S. Eichler. Performance evaluation of the IEEE 802.11p WAVE communication standard[C]. Proc. IEEE Vehicular Technology Conf., Baltimore, MD, US, Oct. 2007: 2199-2203
-[22]	Karagiannis G.. Vehicular Networking: A Survey and Tutorial on Requirements, 
-[23]	Architectures, Challenges, Standards and Solutions[J]. Communications Surveys &      Tutorials, IEEE,Fourth Quarter 2011: 584-616
-[24]	IEEE 1609 - Family of Standards for Wireless Access in Vehicular Environments (WAVE) [EB/OL]. http://www.standards.its.dot.gov/fact_sheet.asp?f=80
-[25]	IEEE Std 1609. 0-2012. IEEE Draft Guide for Wireless Access in Vehicular Environments (WAVE) - Architecture. IEEE P1609.0/D5[S]. IEEE, 2012
-[26]	IEEE Std 1609.1 -2006. IEEE Trial-Use Standard for Wireless Access in Vehicular Environments (WAVE)—Resource Manager. IEEE Vehicular Technology Society (VTS) [S].October 2006
-[27]	IEEE Std 1609. 3-2010, IEEE Standard for Wireless Access in Vehicular Environments (WAVE)-Networking Services[S].IEEE, 2010.
-[28]	IEEE Std 1609. 4-2010，IEEE Standard for Wireless Access in Vehicular Environments (WAVE)-Multi-channel Operation[S].IEEE, 2011
-[29]	邱团准. 基于SOA的车联网应用系统设计与实现[D]. 华南理工大学, 2013
-[30]	百度百科.嵌入式系统[EB/OL]. http://baike.baidu.com/view/6115.htm
-[31]	韦东山.嵌入式Linux应用开发[M]. 人民邮电出版社,2003
-[32]	魏永明,耿岳,钟书毅. LINUX 设备驱动程序(译)[M]. 中国电力出版社,2006
-[33]	百度百科.libpcap[EB/OL]. http://baike.baidu.com/view/1319961.htm
-[34]	Richard Steve.Advanced Propramming in the Unix Environment[M].人民邮件出版社2006
-[35]	Csdn博客.libpcap-mmap [EB/OL]..http://blog.csdn.net/aaa6695798/article/details/4451582
-[36]	Yu, Fan, and Subir Biswas. Self-configuring TDMA protocols for enhancing vehicle safety with DSRC based vehicle-to-vehicle communications. IEEE Journal. 2007,25
-[37]	百度百科.遗传算法[EB/OL]. http://baike.baidu.com/view/45853.htm
-[38]	遗传算法演示程序[EB/OL].http://userweb.eng.gla.ac.uk/yun.li/ga_demo/ga_demo.html
-[39]	雷英杰,张善文,李续武,周创明MATLAB 遗传算法工具箱与应用[M].西安电子科技大学出版社,2005
+原39后加插  ：董帅甫. 基于局部可靠 UDP 的无线视频传输系统. MS thesis. 大连理工大学, 2013.
+【100】基于小波变换的交通图像预处理与特征提取    张丽-《河北大学硕士论文》-2007-06-01
+【200】无线局域网视频流组播自适应机制的研究    谢仕云-《电子科技大学硕士论文
+【300】无线mesh网络中基于功率控制和定向天线的低时延广播研究    常亚楠-《武汉大学博士论文》-2013-04-01
+【400】嵌入式ARM9200与MCP2510的通信研究    张静-《太原科技大学硕士论文》-2008-05-01
+【500】移动数据网格的设计与实现    马力遥-《电子科技大学硕士论文》-2006-05-01
+【600】基于嵌入式以太网的LED显示屏控制系统应用研究    丁弋宇-《东南大学硕士论文》-2006-03-01
+【700】旋转机械的网络化在线监测诊断系统研究    俞贵涛-《电子科技大学硕士论文》-2007-05-01
+【800】无线视频监控系统及其关键问题的研究    宋浩-《天津大学硕士论文》-2011-12-01
