@@ -1,0 +1,26 @@
+﻿IOV	Internet of Vehicles					车联网 
+ITS	Intelligent Transport System				智能交通系统
+MAC	Media Access Control					媒体接入控制
+CSMA/CA	Carrier Sense Multiple Access with Collision Avoidance	载波侦听多点接入/避免冲撞
+TDMA	Time Division Multiple Access				时分多址访问技术
+ION	Internet of Net						物联网
+GIS	Geographic Information System				地理信息系统
+GPS	Global Positioning System				全球定位系统
+EDI	Electronic Data Interchange				电子数据交换
+ETC	Electronic Toll Collection				电子不停车收费系统
+LLC	Logical Link Control					逻辑链路层
+OSI	Open System Interconnection				开放式互联系统
+WSMP	WAVE Short Message Protocol				WAVE短消息协议层
+WAVE	Wireless Access in Vehicular Environment	
+IBSS	Independent Basic Service Set				独立基本服务集合模式
+BSS	Basic Service Set					基本服务集合模式
+ESS	Extended Service Set					扩展服务集合
+NAV	Network Allocation Vector				网络分配矢量
+DFC	Distributed Coordination Function			分布式协调功能
+PCF	Point Coordination Function				点协调功能
+SCH	Service Channel						服务信道
+CCH	Control Channel						控制信道
+RSU	Road-Side Unit						路侧单元
+OBU	On-Board Unit						车载单元
+
+
